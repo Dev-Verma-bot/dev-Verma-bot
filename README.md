@@ -22,6 +22,7 @@ Passionate about architecting high-performance web applications and solving comp
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Dev-Verma-bot&show_icons=true&theme=radical&rank_icon=github" alt="Dev's Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Verma-bot&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://leetcard.jacoblin.cool/Dev_Verma0707?theme=radical&font=Inter" alt="LeetCode Stats" />
 </p>
 
 ---
