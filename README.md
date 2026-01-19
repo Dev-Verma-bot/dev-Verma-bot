@@ -1,5 +1,5 @@
 # 🚀 Dev Verma
-### Full-Stack Software Engineer | Real-Time Systems & MERN Specialist
+### Full-Stack Developer | Real-Time Systems & MERN Specialist
 
 Passionate about architecting high-performance web applications and solving complex engineering challenges. I specialize in the **MERN Stack** and **Real-Time Communication (WebSockets)**, focusing on writing clean, scalable, and maintainable code.
 
