@@ -18,20 +18,6 @@ Passionate about architecting high-performance web applications and solving comp
 
 ---
 
-## 🏗️ Featured Engineering: [Convoo](https://github.com/Dev-Verma-bot/Convoo---Real-Time-Chat-Application)
-**High-Concurrency Real-Time Chat Platform**
-
-Developed a robust communication engine designed for low-latency message delivery and efficient state management.
-
-* **Optimized Data Retrieval:** Engineered "Enrolled Room" logic using MongoDB `.populate()` and custom filtering to reduce API overhead by 40%.
-* **Real-Time Architecture:** Leveraged Socket.io for instantaneous message broadcasting and user presence tracking.
-* **Security First:** Implemented multi-layer JWT authentication and secure route guards to protect user data.
-* **Advanced Search:** Built a regex-based global user discovery system with optimized database indexing.
-
-
-
----
-
 ## 📊 Technical Impact
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Dev-Verma-bot&show_icons=true&theme=radical&rank_icon=github" alt="Dev's Stats" />
@@ -48,9 +34,8 @@ Developed a robust communication engine designed for low-latency message deliver
 ---
 
 ## 🤝 Connect & Collaborate
-* 💼 **LinkedIn:** [/in/dev-verma](https://linkedin.com/in/yourprofile)
-* 📧 **Email:** [dev.verma@example.com](mailto:dev.verma@example.com)
-* 🌐 **Portfolio:** [devverma.dev](https://yourportfolio.com)
+* 💼 **LinkedIn:** [/in/dev-verma](https://www.linkedin.com/in/dev-verma-1a47712b4)
+* 📧 **Email:** [dev.verma@example.com](2023kucp1031@iiitkota.ac.in)
 
 ---
 *"Code is like humor. When you have to explain it, it’s bad."*
