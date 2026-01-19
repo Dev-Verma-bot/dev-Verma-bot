@@ -35,7 +35,7 @@ Passionate about architecting high-performance web applications and solving comp
 
 ## 🤝 Connect & Collaborate
 * 💼 **LinkedIn:** [/in/dev-verma](https://www.linkedin.com/in/dev-verma-1a47712b4)
-* 📧 **Email:** [dev.verma@example.com](2023kucp1031@iiitkota.ac.in)
+* 📧 **Email:** [2023kucp1031@iiitkota.ac.in](2023kucp1031@iiitkota.ac.in)
 
 ---
 *"Code is like humor. When you have to explain it, it’s bad."*
